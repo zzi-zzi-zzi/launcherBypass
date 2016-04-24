@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bnsmultiwindow.BnS
+namespace launcherBypass.BnS
 {
     [StructLayout(LayoutKind.Explicit, Pack = 1)]
     internal struct BSFileHeader

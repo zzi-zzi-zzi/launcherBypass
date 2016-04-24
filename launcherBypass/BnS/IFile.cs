@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace bnsmultiwindow.BnS
+namespace launcherBypass.BnS
 {
     internal interface IFile
     {

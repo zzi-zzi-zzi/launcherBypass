@@ -1,4 +1,4 @@
-﻿using bnsmultiwindow.Utils;
+﻿using launcherBypass.Utils;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bnsmultiwindow.BnS
+namespace launcherBypass.BnS
 {
     class BSFile
     {

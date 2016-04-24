@@ -1,4 +1,4 @@
-﻿using bnsmultiwindow.Utils;
+﻿using launcherBypass.Utils;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace bnsmultiwindow.BnS
+namespace launcherBypass.BnS
 {
     class BNSXmlFile : IFile
     {

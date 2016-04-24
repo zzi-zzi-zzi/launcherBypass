@@ -7,8 +7,8 @@
     <ProjectGuid>{6F452212-03BF-4452-9170-C1BD97D2C830}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>bnsmultiwindow</RootNamespace>
-    <AssemblyName>bnsmultiwindow</AssemblyName>
+    <RootNamespace>launcherBypass</RootNamespace>
+    <AssemblyName>launcherBypass</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bnsmultiwindow.Utils
+namespace launcherBypass.Utils
 {
     class Byte
     {
